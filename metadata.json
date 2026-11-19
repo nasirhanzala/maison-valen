@@ -1,0 +1,6 @@
+{
+  "name": "Maison Valen",
+  "description": "International collection of five-star architectural sanctuary hotels, private suites, and bespoke concierge reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
